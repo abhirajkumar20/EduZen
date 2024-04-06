@@ -68,5 +68,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For inquiries, please contact [EduZen Support](mailto:eduzen@example.com).
 
 ---
-
-This README provides an overview of EduZen, including its problem statement, solution, tech stack, features, installation instructions, usage guidelines, contribution guidelines, license information, and contact details.
