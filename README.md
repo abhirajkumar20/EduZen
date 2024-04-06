@@ -33,7 +33,7 @@ EduZen is a platform dedicated to simplifying the learning experience by consoli
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/EduZen.git
+   git clone [https://github.com/your_username/EduZen.git](https://abhirajkumar20.github.io/EduZen/)
    ```
 2. Install dependencies:
    ```bash
